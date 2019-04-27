@@ -1,0 +1,25 @@
+
+.stars {
+  width: 50vw;
+  height: 100px;
+  border: 1px solid red;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.star {
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  color: red;
+  background-color: red;
+}
+
+.nostar {
+  height: 50px;
+  width: 50px;
+  border-radius: 100%;
+  background-color: white;
+  border: 1px solid red;
+}
